@@ -1,6 +1,6 @@
 {
     "orgName": "IT",
-    "edition": "Developer Edition",
+    "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
